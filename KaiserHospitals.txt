@@ -1,0 +1,5 @@
+Ashburn_Medical_Center_|_Kaiser_Permanente 7
+Reston_Medical_Center_|_Kaiser_Permanente 15.6
+Tysons_Corner_Medical_Center_|_Kaiser_Permanente 22.2
+Gaithersburg_Medical_Center_|_Kaiser_Permanente 41.8
+Manassas_Medical_Center_|_Kaiser_Permanente 18.3

@@ -1,0 +1,10 @@
+Inova_HealthPlex–Ashburn 6.7 5 0 6 7 3 6 0 3 10 41 42
+Broadlands_Family_Practice_at_Brambleton 3.6 0 0 3 0 4 6 2 0 20 13 17
+StoneSprings_Hospital_Center 6.9 23 0 15 3 2 0 4 13 0 0 4
+Swisscom_Hospitality_Services_North 9.7 0 0 5 5 3 3 1 4 3 3 0
+Inova_Loudoun_Hospital 11.8 11 0 0 1 4 5 5 2 5 36 30
+National_Association_of_Urban_Hospital 12 50 0 23 4 3 10 11 11 40 16 13
+North_Spring_Acute_Hospital 12.8 1 0 4 4 2 2 3 4 13 40 36
+Reston_Hospital_Center 17.6 70 0 39 16 7 11 15 27 120 210 300
+Inova_Fair_Oaks_Hospital 19.5 6 0 0 0 3 8 3 0 9 60 31
+Encompass_Health_Rehabilitation_Hospital_of_Northern_Virginia 7.5 15 0 20 12 0 7 7 21 32 12 10
